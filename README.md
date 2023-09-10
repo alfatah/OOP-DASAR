@@ -2,6 +2,12 @@
  Latihan OPP Dasar
  <br>
  Link Donwload Xdebug : https://xdebug.org/wizard
+
+ ```
+ http://localhost/dashboard/phpinfo.php
+```
+ CTRL + U, Copy semua paste ke wizard Xdebug
+ 
  <br>
  Link Tutorial Install Xdebug : https://www.youtube.com/watch?v=8NErnWLWB5o
  Folder PHP Xdebug
