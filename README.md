@@ -1,8 +1,9 @@
 # OOP DASAR PHP
  Latihan OPP Dasar
  <br>
- Link Donwload Xdebug : https://xdebug.org/wizard
-
+ Link Video Tutorial : [Video](https://www.youtube.com/playlist?list=PLFIM0718LjIWvxxll-6wLXrC_16h_Bl_p)
+ <br>
+ Link Donwload : [Xdebug](https://xdebug.org/wizard)
  ```
  http://localhost/dashboard/phpinfo.php
 ```
@@ -11,7 +12,7 @@
  
  <br>
  
- Link Tutorial Install Xdebug : https://www.youtube.com/watch?v=8NErnWLWB5o
+ Link Tutorial Install Xdebug : [Video](https://www.youtube.com/watch?v=8NErnWLWB5o)
  
  <br>
  
