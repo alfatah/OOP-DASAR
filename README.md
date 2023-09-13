@@ -16,7 +16,11 @@
  
  <br>
  
- Folder PHP Xdebug
+ Edit Folder PHP Xdebug ke dir : 
+ ```
+ C:\xampp\apache\conf\extra\httpd-xampp.conf
+```
+Lalu Pastekan berikut ini
 ```
 zend_extension = C:\xampp\php\ext\php_xdebug-3.2.2-8.2-vs16-x86_64.dll
 ```
