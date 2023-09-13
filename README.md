@@ -16,7 +16,7 @@
  
  <br>
  
- Edit Folder PHP Xdebug ke dir : 
+pergi ke Folder XAMPP : 
  ```
  C:\xampp\apache\conf\extra\httpd-xampp.conf
 ```
