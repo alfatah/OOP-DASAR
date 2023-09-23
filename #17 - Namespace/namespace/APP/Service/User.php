@@ -1,6 +1,6 @@
 <?php 
 
-namespace App\Produk;
+namespace App\Service;
 
 class User {
     public function __construct() {
@@ -8,4 +8,5 @@ class User {
     }
  }
 
- ?>
+ 
+?>
