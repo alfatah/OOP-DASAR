@@ -20,7 +20,7 @@ pergi ke Folder XAMPP :
  ```
  C:\xampp\apache\conf\extra\httpd-xampp.conf
 ```
-Lalu Pastekan file berikut ini php_xdebug-3.2.2-8.2-vs16-x86_64.dll 
+lalu Pastekan file berikut ini php_xdebug-3.2.2-8.2-vs16-x86_64.dll 
 
 
 edit ke dir C:\xampp\php\php.ini dan tambahkan extension berikut ini
