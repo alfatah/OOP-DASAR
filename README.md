@@ -23,7 +23,7 @@ pergi ke Folder XAMPP :
 lalu Pastekan file berikut ini php_xdebug-3.2.2-8.2-vs16-x86_64.dll 
 
 
-edit ke dir C:\xampp\php\php.ini dan tambahkan extension berikut ini
+edit file dir C:\xampp\php\php.ini dan tambahkan extension berikut ini
 ```
 zend_extension = C:\xampp\php\ext\php_xdebug-3.2.2-8.2-vs16-x86_64.dll
 ```
